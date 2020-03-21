@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Boss",
+    "City"
+  ],
+  "author": "Henry",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cjs": "0.0.11",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "handlebars": "^4.7.3",
+    "mime": "^2.4.4",
+    "mongodb": "^3.5.5"
+  }
+}
